@@ -13,5 +13,7 @@ pip install libusb-package
 pip install streamdeck
 
 -download the 2 files and put them in 1 directory
+
 -create a new empty folder on youre elgato stream dexk XL 
+
 -from command line : python stereo6a.py
