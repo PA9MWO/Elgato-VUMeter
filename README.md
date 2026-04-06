@@ -3,12 +3,21 @@
 SEE MY OWN MONO VERSION: https://github.com/PA9MWO/Elgato-VUMeter-my-own-try/tree/main
 
 .
+
+
 .
+
 .
+
 .
+
 .
+
 .
+
+
 .
+
 .
 # Elgato-VUMeter
 see : https://www.reddit.com/r/elgato/comments/1s56dm8/whats_is_the_name_of_this_plugin_en_where_to/
